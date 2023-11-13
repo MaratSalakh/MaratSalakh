@@ -4,7 +4,7 @@ Hi 👋 My name is Marat
 I'm Web Frontend Developer
 -----------------
 
-I've been learning to code for one year on Hexlet School. Currently I'm developing my own pet-projects and looking for job opportunites.
+I've been learning to code for one year on Hexlet School. Currently I'm developing my own pet-projects and looking for job opportunities.
 
 * ✉️  You can contact me at [marat.salakh.dev@gmail.com](mailto:marat.salakh.dev@gmail.com)
 * 🚀  I'm currently working on [MarkdownTrainer](http://github.com/MaratSalakh/markdownTrainer)
