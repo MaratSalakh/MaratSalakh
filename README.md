@@ -7,7 +7,7 @@ I'm Web Frontend Developer
 I've been learning to code for one year on Hexlet School. Currently I'm developing my own pet-projects and looking for job opportunities.
 
 * ✉️  You can contact me at [marat.salakh.dev@gmail.com](mailto:marat.salakh.dev@gmail.com)
-* 🚀  I'm currently working on [MarkdownTrainer](http://github.com/MaratSalakh/markdownTrainer)
+* 🚀  I'm currently working on my pet projects
 * 🧠  I'm learning TypeScript
 * 🤝  I'm open to collaborating on interesting Web projects
 * ⚡  Write me if you want collaborating
