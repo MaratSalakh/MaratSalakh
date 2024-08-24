@@ -5,8 +5,6 @@ I'm Web Frontend Developer
 -----------------
 
 * ✉️  You can contact me at [marat.salakh.dev@gmail.com](mailto:marat.salakh.dev@gmail.com)
-* 🚀  I'm currently working on my pet projects
-* 🧠  I'm learning TypeScript
 * 🤝  I'm open to collaborating on interesting Web projects
 
 ### Tools and languages
